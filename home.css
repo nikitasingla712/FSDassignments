@@ -1,0 +1,17 @@
+
+  #main
+    {
+        background:brown;
+        padding:2px;
+    }
+
+  div#main ul li{
+    display:inline-block;
+    padding-right:10px;
+
+  }
+  div#main ul li a
+  {
+
+    color:white;
+  }
