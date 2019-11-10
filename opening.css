@@ -1,0 +1,24 @@
+#opening
+  {
+      color:brown;
+  }
+
+div#opening ul li{
+  color:brown;
+
+}
+div#opening ul li a
+{
+
+  color:blue;
+}
+#open
+{
+  border-collapse: collapse;
+  width:100%;
+  color:brown;
+}
+#open th
+{
+  padding:35px;
+}
